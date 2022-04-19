@@ -1,0 +1,6 @@
+package com.example.taplist_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
